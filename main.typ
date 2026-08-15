@@ -1,4 +1,4 @@
-#let cv = include "resume.typ"
+#let resume = include "resume.typ"
 
 #let theme = [
   #html.elem("link", attrs: (rel: "stylesheet", href: "../style.css"))
@@ -12,7 +12,7 @@
   #html.button(id: "theme-toggle", class: "theme-btn")[Theme: Tomato]
 
   #title()
-  #cv
+  #resume
   == Other formats
   #link(<book-pdf>)[Download PDF.]
 ]
@@ -20,8 +20,7 @@
 #document("resume.pdf", title: [Abhi's Resume])[
   #set page(paper: "a4", margin: 2.5cm)
   #set text(size: 11pt)
-  #cv
-  #pagebreak()
+  #resume
 ] <book-pdf>
 
 
