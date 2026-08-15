@@ -13,9 +13,7 @@
 
   #title()
   #cv
-
   == Other formats
-
   #link(<book-pdf>)[Download PDF.]
 ]
 
