@@ -13,5 +13,5 @@ Semi-qualified CMA candidate.
   ),
   [CMA], [Biswas Institute of Management Studies, Thengana], [2025-26], [421],
   [B.com], [Sree Sabareesa College, Mundakkyam], [2021-24], [60%],
-[Class 12], [PVS Govt. HSS, Pampady], [2019-21], [80%],
+[Class 12#super[th]], [PVS Govt. HSS, Pampady], [2019-21], [80%],
 )
