@@ -18,10 +18,6 @@
 
   This is the online version of *Abhi's Resume*.
 
- 
-
-  - #link(<html-introduction>)[Introduction]
-
   == Other formats
 
   #link(<book-pdf>)[Download the complete book as PDF.]
