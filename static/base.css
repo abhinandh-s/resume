@@ -49,7 +49,6 @@ blockquote {
   font-style: italic; color: var(--ctp-subtext0);
 }
 
-/* set this inline in typst
 table {
   border-collapse: collapse;
 }
@@ -57,4 +56,3 @@ table {
 table, th, td {
   border: 1px solid var(--fg);
 }
-*/
