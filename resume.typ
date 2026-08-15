@@ -4,7 +4,7 @@
 
 Semi-qualified CMA candidate.
 
-#link("mailto:abhinandhsuby@proton.me")[*Email*: abhinandhsuby@proton.me]
+#link("mailto:abhinandhsuby@proton.me")[*Email*: abhinandhsuby\@proton.me]
 
 == Education
 
