@@ -12,8 +12,6 @@ Semi-qualified CMA candidate.
     [*Degree/Exam*], [*Institute/University*], [*Passed in*], [ *Marks* ]
   ),
   [CMA], [Biswas Institute of Management Studies, Thengana], [2025-26], [421],
-
-  [John], [], [], [],
-  [Mary], [], [], [],
-  [Robert], [], [], [],
+  [B.com], [Sree Sabareesa College, Mundakkyam], [2021-24], [60%],
+[Class 12], [PVS Govt. HSS, Pampady], [2019-21], [80%],
 )
