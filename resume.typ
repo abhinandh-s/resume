@@ -17,14 +17,13 @@ Semi-qualified CMA candidate.
 }
 
 #table(
-  columns: 4,
+  columns: 3,
   inset: (x: 7pt, y: 2pt),
   table.header(
-    [*Degree/Exam*], [*Institute/University*], [*Passed in*], [ *Remark* ]
+    [*Degree / Exam*], [*Institute / University*], [*Year*]
   ),
-  [CMA], [Biswas Institute of Management Studies, Thengana], [2025-26], [421],
-  [B.com Finance and Taxation], [Sree Sabareesa College, Mundakkyam], [2021-24], [60%],
-  [Class 12#super[th]], [PVS Govt. HSS, Pampady], [2019-21], [80%],
+  [CMA], [Biswas Institute of Management Studies, Thengana], [2025-26],
+  [B.com Finance and Taxation], [Sree Sabareesa College, Mundakkyam], [2021-24]
 )
 
 
