@@ -8,8 +8,9 @@ Semi-qualified CMA candidate.
 
 #table(
   columns: 4,
+  inset: 5pt,
   table.header(
-    [*Degree/Exam*], [*Institute/University*], [*Passed in*], [ *Marks* ]
+    [*Degree/Exam*], [*Institute/University*], [*Passed in*], [ *Remark* ]
   ),
   [CMA], [Biswas Institute of Management Studies, Thengana], [2025-26], [421],
   [B.com], [Sree Sabareesa College, Mundakkyam], [2021-24], [60%],
