@@ -10,7 +10,7 @@ Semi-qualified CMA candidate.
 
 #table(
   columns: 4,
-  inset: 5pt,
+  inset: 15pt,
   table.header(
     [*Degree/Exam*], [*Institute/University*], [*Passed in*], [ *Remark* ]
   ),
