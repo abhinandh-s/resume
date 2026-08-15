@@ -27,28 +27,6 @@
   #link(<book-pdf>)[Download the complete book as PDF.]
 ]
 
-
-#document("chapters/introduction.html", title: [Introduction])[
-  #theme
-  #introduction
-  #link(<html-accounting>)[Next: Accounting Fundamentals →]
-] <html-introduction>
-
-
-#document("chapters/accounting.html", title: [Accounting Fundamentals])[
-  #theme
-  #link(<html-introduction>)[← Previous: Introduction]
-  #accounting
-  #link(<html-costing>)[Next: Introduction to Costing →]
-] <html-accounting>
-
-
-#document("chapters/costing.html", title: [Introduction to Costing])[
-  #theme
-  #link(<html-accounting>)[← Previous: Accounting Fundamentals]
-  #costing
-] <html-costing>
-
 #document("book.pdf", title: [Example Book])[
   #set page(paper: "a4", margin: 2.5cm)
   #set text(size: 11pt)
@@ -63,13 +41,8 @@
   #outline(title: [Contents])
   #pagebreak()
 
-  #introduction
+  #cv
   #pagebreak()
-
-  #accounting
-  #pagebreak()
-
-  #costing
 ] <book-pdf>
 
 
