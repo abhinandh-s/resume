@@ -14,7 +14,7 @@ Semi-qualified CMA candidate.
       border-collapse: collapse;
     }
     td, th {
-      padding: 5pt;
+      padding: 2pt 7pt;
       border: 1px solid var(--fg);
     }
   ]
