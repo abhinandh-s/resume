@@ -7,6 +7,7 @@ Semi-qualified CMA candidate.
 #link("mailto:abhinandhsuby@proton.me")[*Email*: abhinandhsuby\@proton.me]
 
 == Education
+
 #context if target() == "html" {
   html.elem("style")[
     table {
@@ -21,7 +22,7 @@ Semi-qualified CMA candidate.
 
 #table(
   columns: 4,
-  inset: 15pt,
+  inset: (x: 7pt, y: 2pt),
   table.header(
     [*Degree/Exam*], [*Institute/University*], [*Passed in*], [ *Remark* ]
   ),
