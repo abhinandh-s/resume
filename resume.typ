@@ -13,7 +13,7 @@ Semi-qualified CMA candidate.
   ),
   [CMA], [Biswas Institute of Management Studies, Thengana], [2025-26], [421],
 
-  [John], [], a, [],
-  [Mary], [], a, a,
-  [Robert], b, a, b,
+  [John], [], [], [],
+  [Mary], [], [], [],
+  [Robert], [], [], [],
 )
