@@ -7,7 +7,7 @@ Semi-qualified CMA candidate.
 #link("mailto:abhinandhsuby@proton.me")[*Email*: abhinandhsuby\@proton.me]
 
 == Education
-#if target() == "html" {
+#context if target() == "html" {
   html.elem("style")[
     table {
       border-collapse: collapse;
