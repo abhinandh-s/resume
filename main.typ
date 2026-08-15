@@ -1,6 +1,4 @@
-#let introduction = include "chapters/01-introduction.typ"
-#let accounting = include "chapters/02-accounting.typ"
-#let costing = include "chapters/03-costing.typ"
+#let cv = include "resume.typ"
 
 #let theme = [
   #html.elem("link", attrs: (rel: "stylesheet", href: "../style.css"))
@@ -8,7 +6,7 @@
   #html.button(id: "theme-toggle", class: "theme-btn")[Theme: Tomato]
 ]
 
-#document("index.html", title: [Example Book])[
+#document("index.html", title: [Abhi's Resume])[
   #html.elem("link", attrs: (rel: "stylesheet", href: "style.css"))
   // Add the script and button
   #html.script(src: "theme.js")
@@ -17,13 +15,11 @@
 
   #title()
 
-  This is the online version of *Example Book*.
+  This is the online version of *Abhi's Resume*.
 
-  == Chapters
+ 
 
   - #link(<html-introduction>)[Introduction]
-  - #link(<html-accounting>)[Accounting Fundamentals]
-  - #link(<html-costing>)[Introduction to Costing]
 
   == Other formats
 
