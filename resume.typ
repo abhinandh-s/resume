@@ -7,15 +7,17 @@ Semi-qualified CMA candidate.
 #link("mailto:abhinandhsuby@proton.me")[*Email*: abhinandhsuby\@proton.me]
 
 == Education
-#html.elem("style")[
-  // table {
-  //  border-collapse: collapse;
- // }
-  td, th {
-    padding: 5pt;
- //   border: 1px solid #ccc;
-  }
-]
+#if target() == "html" {
+  html.elem("style")[
+    table {
+      border-collapse: collapse;
+    }
+    td, th {
+      padding: 5pt;
+      border: 1px solid var(--fg);
+    }
+  ]
+}
 
 #table(
   columns: 4,
