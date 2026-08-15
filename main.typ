@@ -12,31 +12,19 @@
   #html.script(src: "theme.js")
   #html.button(id: "theme-toggle", class: "theme-btn")[Theme: Tomato]
 
-
+  
   #title()
-  #cv
-
   This is the online version of *Abhi's Resume*.
+  #cv
 
   == Other formats
 
   #link(<book-pdf>)[Download the complete book as PDF.]
 ]
 
-#document("book.pdf", title: [Example Book])[
+#document("resume.pdf", title: [Abhi's Resume])[
   #set page(paper: "a4", margin: 2.5cm)
   #set text(size: 11pt)
-
-  #align(center)[
-    #text(24pt, weight: "bold")[Example Book]
-    #v(1em)
-    A demonstration book built with Typst.
-  ]
-  #pagebreak()
-
-  #outline(title: [Contents])
-  #pagebreak()
-
   #cv
   #pagebreak()
 ] <book-pdf>
