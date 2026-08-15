@@ -14,6 +14,7 @@
 
 
   #title()
+  #cv
 
   This is the online version of *Abhi's Resume*.
 
