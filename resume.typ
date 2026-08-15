@@ -10,12 +10,8 @@ Semi-qualified CMA candidate.
 
 #context if target() == "html" {
   html.elem("style")[
-    table {
-      border-collapse: collapse;
-    }
     td, th {
       padding: 2pt 7pt;
-      border: 1px solid var(--fg);
     }
   ]
 }
