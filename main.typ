@@ -8,18 +8,15 @@
 
 #document("index.html", title: [Abhi's Resume])[
   #html.elem("link", attrs: (rel: "stylesheet", href: "style.css"))
-  // Add the script and button
   #html.script(src: "theme.js")
   #html.button(id: "theme-toggle", class: "theme-btn")[Theme: Tomato]
 
-  
   #title()
-  This is the online version of *Abhi's Resume*.
   #cv
 
   == Other formats
 
-  #link(<book-pdf>)[Download the complete book as PDF.]
+  #link(<book-pdf>)[Download PDF.]
 ]
 
 #document("resume.pdf", title: [Abhi's Resume])[
