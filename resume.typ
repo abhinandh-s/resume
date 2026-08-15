@@ -16,3 +16,19 @@ Semi-qualified CMA candidate.
   [B.com], [Sree Sabareesa College, Mundakkyam], [2021-24], [60%],
 [Class 12#super[th]], [PVS Govt. HSS, Pampady], [2019-21], [80%],
 )
+
+
+== Work Experience
+
+None. I don't have any work experience in commerce field. 
+
+#show link: underline
+
+== Projects
+
+1. #link("https://abhinandh-s.github.io/ipa")[
+     Abhi's Guide to Indian Partnership Act, 1932
+   ]
+2. #link("https://abhinandh-s.github.io/airborne")[
+     Statistics Library written in Rust Programming Language
+   ]
